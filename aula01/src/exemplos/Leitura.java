@@ -11,6 +11,7 @@ public class Leitura {
 		int n = Integer.parseInt(leitor.nextLine());
 		
 		System.out.println("Usuário digitou " + n);
+		System.out.printf("O usuário digitou %d", n);
 	}
 
 }

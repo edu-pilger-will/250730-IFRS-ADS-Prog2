@@ -1,0 +1,17 @@
+/**
+ * 6. Escreva um programa que solicite as seguintes informações sobre uma viagem: quilometragem
+ *    inicial do carro, quilometragem do carro após a viagem e o número de litros de combustível
+ *    consumidos. Com base nessas informações calcule a média de consumo do carro por litro e
+ *    imprima na tela.
+ */
+
+package tarefas;
+
+public class Exercicio6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
