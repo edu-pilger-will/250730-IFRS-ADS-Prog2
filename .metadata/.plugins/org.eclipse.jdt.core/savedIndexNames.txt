@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\william.pilger\Documents\GitHub\250730-IFRS-ADS-Prog2\.metadata\.plugins\org.eclipse.jdt.core
+1042465630.index
+1040068760.index
